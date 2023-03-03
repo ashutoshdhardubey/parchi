@@ -1,4 +1,5 @@
 # parchi
 
 Link for live demo:  
-https://akashadubey.github.io/parchi
+https://ashutoshdhardubey.github.io/parchi
+
